@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm StrangeJaguar</h1>
-<h3 align="center">Im an intermediate developer from the USA</h3>
+<h1 align="right">Hi 👋, I'm StrangeJaguar</h1>
+<h3 align="right">Im an intermediate developer from the USA</h3>
 
 
 
