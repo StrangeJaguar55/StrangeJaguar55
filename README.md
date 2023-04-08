@@ -1,3 +1,5 @@
+<img align='left' src='https://uxwing.com/wp-content/themes/uxwing/download/nature-and-environment/leaf-green-color-icon.svg' width='30%'/> 
+
 <h1 align="right">Hi 👋, I'm StrangeJaguar</h1>
 <h3 align="right">Im an intermediate developer from the USA</h3>
 
