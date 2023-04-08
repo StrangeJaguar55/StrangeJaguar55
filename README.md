@@ -1,4 +1,4 @@
-<img align='left' src='https://uxwing.com/wp-content/themes/uxwing/download/nature-and-environment/leaf-green-color-icon.svg' width='30%'/> 
+<img align='left' src='https://media.discordapp.net/attachments/1071450105091211274/1094247572832518275/A2CC670A-BFC0-49D8-82AD-64123B10D2A5.jpg?width=1132&height=1132' width='30%'/> 
 
 <h1 align="right">Hi 👋, I'm StrangeJaguar</h1>
 <h3 align="right">Im an intermediate developer from the USA</h3>
