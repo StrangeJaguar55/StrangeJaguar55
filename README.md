@@ -4,7 +4,6 @@
 <h3 align="center">Im and intermediate coder from the US</h3>
 
 
-<!-- markdownlint-enable MD033 -->
 
 
 # 💻 Tech Stack:
