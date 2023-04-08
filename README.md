@@ -1,7 +1,7 @@
 <img align='left' src='https://cdn.discordapp.com/attachments/1071450105091211274/1094248482707099658/E1C43B04-E53A-4B9B-885E-20A2E699B937-removebg-preview.png' width='30%'/> 
 
 <h1 align="right">Hi 👋, I'm StrangeJaguar</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+im+StrangeJaguar55;A+intermediate+coder+from+the+Us" alt="Typing SVG" /></a>
+<align="right"a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+im+StrangeJaguar55;A+intermediate+coder+from+the+Us" alt="Typing SVG" /></a>
 
 
 
