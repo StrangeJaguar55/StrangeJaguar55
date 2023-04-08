@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm StrangeJaguar</h1>
 <h3 align="center">Im and intermediate coder from the US</h3>
 
-
+<h3 align="center">How did i get into coding? at first i wanted to make my own discord bot, i went online and searched for ways to make a discord bot without coding and didnt find anything good, and then about a year passed by and i decided to code my own discord bot, then i learned javascript and am working on a bot now!</h3>
 
 
 # 💻 Tech Stack:
