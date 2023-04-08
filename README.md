@@ -1,7 +1,7 @@
 <img align='left' src='https://cdn.discordapp.com/attachments/1071450105091211274/1094248482707099658/E1C43B04-E53A-4B9B-885E-20A2E699B937-removebg-preview.png' width='30%'/> 
 
 <h1 align="right">Hi 👋, I'm StrangeJaguar</h1>
-Im and intermediate coder from the US
+<h3 align="right" Im and intermediate coder from the US</h3>
 
 
 
