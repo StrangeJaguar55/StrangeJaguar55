@@ -11,5 +11,5 @@ Im and intermediate coder from the US
 ---
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=strangejaguar55&show_icons=true&locale=en&layout=compact" alt="strangejaguar55" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=strangejaguar55&show_icons=true&locale=en" alt="strangejaguar55" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=strangejaguar55&show_icons=true&locale=en" alt="strangejaguar55" /></p>
 
