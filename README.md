@@ -1,7 +1,7 @@
 <img align='left' src='https://cdn.discordapp.com/attachments/1071450105091211274/1094248482707099658/E1C43B04-E53A-4B9B-885E-20A2E699B937-removebg-preview.png' width='20%'/> 
 
 <h1 align="center">Hi 👋, I'm StrangeJaguar</h1>
-<h3 align="center">Im and intermediate coder from the US</h3>
+<h3 align="center">Im an intermediate coder from the US</h3>
 
 <h3 align="center">How did i get into coding? at first i wanted to make my own discord bot, i went online and searched for ways to make a discord bot without coding and didnt find anything good, and then about a year passed by and i decided to code my own discord bot, then i learned javascript and am working on a bot now!</h3>
 
