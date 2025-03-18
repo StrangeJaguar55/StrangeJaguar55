@@ -3,8 +3,6 @@
 <h1 align="center">Hi 👋, I'm StrangeJaguar</h1>
 <h3 align="center">Im an intermediate coder from the US</h3>
 
-<h3 align="center">How did i get into coding? at first i wanted to make my own discord bot, i went online and searched for ways to make a discord bot without coding and didnt find anything good, and then about a year passed by and i decided to code my own discord bot, then i learned javascript and am working on a bot now!</h3>
-
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
